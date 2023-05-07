@@ -58,8 +58,8 @@
 
         <ListBox   Grid.Column="0" Margin="10,78,0,349" Background="Transparent" Foreground="White" BorderBrush="{x:Null}" HorizontalAlignment="Left" FontSize="16" IsSynchronizedWithCurrentItem="True" Width="279"  >
             <ListBoxItem>1. Kelime üret butonuna tıkla</ListBoxItem>
-            <ListBoxItem>2. Harfi dene butonuna tıkla</ListBoxItem>
-            <ListBoxItem>3. Tahmin ettiğin harfi boş kutuya yaz</ListBoxItem>
+            <ListBoxItem>2. Tahmin ettiğin harfi boş kutuya yaz</ListBoxItem>
+            <ListBoxItem>3. Harfi dene butonuna tıkla</ListBoxItem>
             <ListBoxItem>4. İpucu kutusuna bakarak tahmin et</ListBoxItem>
         </ListBox>
 

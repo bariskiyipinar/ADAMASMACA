@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barış\\Desktop\\C#\\deneme3\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu.csproj",
+      "projectUniqueName": "C:\\Users\\Barış\\Desktop\\Adam-Asmaca-Oyunu\\ADAMASMACA\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu.csproj",
       "projectName": "Adam-Asmaca-Oyunu",
-      "projectPath": "C:\\Users\\Barış\\Desktop\\C#\\deneme3\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu.csproj",
+      "projectPath": "C:\\Users\\Barış\\Desktop\\Adam-Asmaca-Oyunu\\ADAMASMACA\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu.csproj",
       "packagesPath": "C:\\Users\\Barış\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barış\\Desktop\\C#\\deneme3\\Adam-Asmaca-Oyunu\\Adam-Asmaca-Oyunu\\obj\\",
+      "outputPath": "C:\\Users\\Barış\\Desktop\\Adam-Asmaca-Oyunu\\ADAMASMACA\\Adam-Asmaca-Oyunu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
