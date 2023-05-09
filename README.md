@@ -1,2 +1,1 @@
-# ADAMASMACA
-Adam asmaca oyunu
+deneme
