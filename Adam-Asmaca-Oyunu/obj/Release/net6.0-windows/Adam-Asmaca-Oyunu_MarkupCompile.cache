@@ -1,18 +1,18 @@
 ﻿Adam-Asmaca-Oyunu
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Release\net6.0-windows\
 Adam_Asmaca_Oyunu
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\App.xaml
 11407045341
 
-51691355004
+3-1233169557
 194618410957
 MainWindow.xaml;
 
