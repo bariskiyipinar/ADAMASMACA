@@ -1,4 +1,4 @@
-# ADAMASMACA
+# ADAMASMACA OYUNU
 Öncelikle herkese merhabalar
 
 Proje olarak bir oyun tasarlamaya karar verdim.Oyun Tasarlamamda ki en büyük neden oyunları sevmem oldu ve de görsel uygulama adı altında en verimli iş görebileceğini düşündüğüm için de oyun olarak Adam Asmaca oyununu seçmeye karar verdim.Çok uzatmadan öncelikle bu oyunu nasıl tasarlayacağım ve hangi dili kullanacağım ondan biraz bahsetmek istiyorum.
