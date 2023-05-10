@@ -27,4 +27,4 @@ Buton dışarıdan etkileşimi programa çevirmeye yarayan bir ögedir.Oluştura
 
 ### 4.TextBox Tanımı ve Projedeki İşlevi Nedir?
 
-TextBox kullanıcıdan veri almamızı sağlar.TextBox'ı projede tahmin ettiğimiz harfi yazmak için kullacağım.Her seferinde bir kere harf yazma hakkımız olacak.Birden fazla TextBox harf girice karşımıza 'Lütfem Harf Girin' adında çıktı verecek.
+TextBox kullanıcıdan veri almamızı sağlar.TextBox'ı projede tahmin ettiğimiz harfi yazmak için kullacağım.Her seferinde bir kere harf yazma hakkımız olacak.Birden fazla TextBox harf girice karşımıza `Lütfen Harf Girin` adında çıktı verecek.
