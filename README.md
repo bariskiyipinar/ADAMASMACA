@@ -13,18 +13,18 @@ Projenin ön aşamalarında ise ilk olarak WPF platformunda XAML dilini kullanar
 
 Öncelikle oluşturacağım projede ön tasarımda kullanacağım tasarım ögeleri : 1 tane ListBox 2 tane buton ,2 tane Label ,1 tane de Textbox olacak.Bu tasarım ögeleri nedir ve ne amaçla kullanacağımı anlatacak olursam;
 
-#1.ListBox Tanımı ve Projedeki İşlevi Nedir?
+## 1.ListBox Tanımı ve Projedeki İşlevi Nedir?
 
 ListBox bir dizi maddeyi listelemeye yarayan bir tasarım ögesidir.Oluşturacağım projede Listbox'ın görevi ise form ekranında sol üst köşesinde yerleştirip maddeler halinde oyun nasıl oynanır şeklinde teker teker açıklayacağım.Bu maddelere bakarak oyun aşamalarını görüp ona göre oynamamızı sağlayacak.
 
-#2.Label Tanımı ve Projedeki İşlevi Nedir?
+## 2.Label Tanımı ve Projedeki İşlevi Nedir?
 
 Label etiket oluşturmaya yarar.Ben projemde bu ögeyi genel olarak çıktı vermesi için kullanacağım.Toplamda projede 2 adet Label olacak.Bir tanesi Oluşturulacak Çöp adamın çıktısını göstermek için ,diğeri ise ipucu için oluşturulacak kelimeye ne kadar yaklaştığımızı gösterecek.
 
-#3.Buton Tanımı ve Projedeki İşlevi Nedir?
+## 3.Buton Tanımı ve Projedeki İşlevi Nedir?
 
 Buton dışarıdan etkileşimi programa çevirmeye yarayan bir ögedir.Oluşturacağım projede 2 adet buton olacak.İlk butonu rastgele sınırlı oluşturulacak kelimeleri seçmeye yarayacak.Örneğin kelime üret butonuna tıklayınca oluşturduğum rastgele 10 kelimeden 1 tanesi bilmemiz gereken kelime olacak.Diğer buton ise harfi dene butonu olacak.Bu buton da oluşturulacak yazılacak harfi ekrana basmaya yarayacak.
 
-#4.TextBox Tanımı ve Projedeki İşlevi Nedir?
+## 4.TextBox Tanımı ve Projedeki İşlevi Nedir?
 
 TextBox kullanıcıdan veri almamızı sağlar.TextBox'ı projede tahmin ettiğimiz harfi yazmak için kullacağım.Her seferinde bir kere harf yazma hakkımız olacak.Birden fazla TextBox harf girice karşımıza 'Lütfem Harf Girin' adında çıktı verecek.
