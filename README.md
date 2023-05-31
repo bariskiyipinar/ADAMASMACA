@@ -30,3 +30,5 @@ Buton ,dışarıdan etkileşimi programa çevirmeye yarayan bir ögedir.Oluştur
 TextBox ,kullanıcıdan veri almamızı sağlar.TextBox'ı projede tahmin ettiğimiz harfi yazmak için kullacağım.Her seferinde bir kere harf yazma hakkımız olacak.Birden fazla TextBox harf girice karşımıza `Lütfen Harf Girin` adında çıktı verecek.
 
 ### Oluşturduğum Projenin Önizlemesi:
+
+![3](https://user-images.githubusercontent.com/102514336/208303195-ac6b2279-0608-46c7-a2b7-785125452139.png)
