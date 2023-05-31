@@ -1,0 +1,126 @@
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\Users\Barış\Desktop\C#\deneme3\Adam-Asmaca-Oyunu\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\Users\Barış\Desktop\Adam-Asmaca-Oyunu\ADAMASMACA\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\Users\Barış\Desktop\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll
+C:\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\GörselProgproje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\GörselProgproje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll
+C:\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.exe
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.deps.json
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.runtimeconfig.json
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\bin\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.cache
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu_MarkupCompile.lref
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.g.resources
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.AssemblyInfo.cs
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\refint\Adam-Asmaca-Oyunu.dll
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.pdb
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\Adam-Asmaca-Oyunu.genruntimeconfig.cache
+C:\Users\Barış\Desktop\Yeni proje\Adam-Asmaca-Oyunu\obj\Debug\net6.0-windows\ref\Adam-Asmaca-Oyunu.dll

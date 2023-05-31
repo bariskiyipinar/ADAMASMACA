@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Adam_Asmaca_Oyunu</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="arkaplan.jpg" />
+    <None Remove="arkaplan.png" />
+    <None Remove="zyro-image.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="arkaplan.png" />
+  </ItemGroup>
+
+</Project>
