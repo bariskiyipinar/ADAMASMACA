@@ -32,3 +32,8 @@ TextBox ,kullanıcıdan veri almamızı sağlar.TextBox'ı projede tahmin ettiğ
 ### Oluşturduğum Projenin Önizlemesi:
 
 ![Önizleme](https://github.com/bariskiyipinar/ADAMASMACA/blob/main/adam%20asmaca%20önizlemesi.png)
+
+### Oluşturduğum Projenin Videosu:
+
+https://github.com/bariskiyipinar/ADAMASMACA/assets/102514336/780c93ff-c13e-4619-ac5f-2efc21bdcbc5
+
