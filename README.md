@@ -40,3 +40,6 @@ Aşağıda projenin bitmiş halinin fotoğrafı ve projenin nasıl çalıştığ
 
 https://github.com/bariskiyipinar/ADAMASMACA/assets/102514336/780c93ff-c13e-4619-ac5f-2efc21bdcbc5
 
+
+Wpf application
+
